@@ -2,7 +2,7 @@
 
 ### New quotes after  every ten seconds
 
-#### Watch live demo [https://optimistic-torvalds-ad2ecf.netlify.app/](https://optimistic-torvalds-ad2ecf.netlify.app/)
+#### Watch live demo [https://flyingsonu122.github.io/random-quote/](https://flyingsonu122.github.io/random-quote/)
 
 
 
